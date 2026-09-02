@@ -1,12 +1,12 @@
 {
-  "version": "0.24.3",
+  "version": "0.25.0",
   "description": "Security-conscious AI agent runtime",
   "homepage": "https://github.com/DartClaw/dartclaw",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/DartClaw/dartclaw/releases/download/v0.24.3/dartclaw-v0.24.3-windows-x64.zip",
-      "hash": "325bdcdf1fd369041504e282062e3b489ccefdb2bbbd5a0fc91347f2d71feea3"
+      "url": "https://github.com/DartClaw/dartclaw/releases/download/v0.25.0/dartclaw-v0.25.0-windows-x64.zip",
+      "hash": "b9bad0eefe3a0de2d974aebbc534075693c69c09ab7f2895fbf042f2e58b94d1"
     }
   },
   "bin": "bin\\dartclaw.exe",
