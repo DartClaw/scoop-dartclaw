@@ -1,12 +1,12 @@
 {
-  "version": "0.26.0",
+  "version": "0.26.1",
   "description": "Standalone DartClaw workflow host (no server, channels or web UI)",
   "homepage": "https://github.com/DartClaw/dartclaw",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/DartClaw/dartclaw/releases/download/v0.26.0/dartclaw-workflow-v0.26.0-windows-x64.zip",
-      "hash": "b549be5fd4e37d63c10a10a2d48750fa72d2d1f0c0477734bcf383d053e83f68"
+      "url": "https://github.com/DartClaw/dartclaw/releases/download/v0.26.1/dartclaw-workflow-v0.26.1-windows-x64.zip",
+      "hash": "2ff5a8a9c3957a2d60436e7a905cc0e9175d4f4884a6a4534d3a368b70f1640f"
     }
   },
   "bin": "bin\\dartclaw-workflow.exe",
